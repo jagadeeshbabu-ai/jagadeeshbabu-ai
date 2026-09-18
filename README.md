@@ -31,11 +31,9 @@
 ## 🟢 GitHub Status
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Status-Available%20for%20AI%20Projects-brightgreen?style=for-the-badge" alt="GitHub status" />
 <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20MERN%20%7C%20Analytics-blue?style=for-the-badge" alt="Current focus" />
 <img src="https://img.shields.io/badge/Mode-Building%20Real--World%20Solutions-orange?style=for-the-badge" alt="Mode" />
-
 </div>
 
 ---
@@ -92,7 +90,6 @@ I’m a **B.Tech Electronics & Communication Engineering graduate** passionate a
 ## 🧠 AI Tools & Coding Assistants
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/AntiGravity-6C63FF?style=for-the-badge" alt="AntiGravity" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
@@ -101,7 +98,6 @@ I’m a **B.Tech Electronics & Communication Engineering graduate** passionate a
 <img src="https://img.shields.io/badge/Gemini-8E5BEF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Claude%20Code-FF6F61?style=for-the-badge" alt="Claude Code" />
 <img src="https://img.shields.io/badge/CodeX-00C2A8?style=for-the-badge" alt="CodeX" />
-
 </div>
 
 ---
@@ -129,12 +125,12 @@ Worked on React.js interfaces, REST APIs with Node.js and Express.js, MongoDB in
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeeshbabu-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution statistics showing total contributions, current streak, and longest streak" />
+  <img src="https://streak-stats.demolab.com?user=jagadeeshbabu-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeeshbabu-ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Jagadeesh Babu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshbabu-ai&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeeshbabu-ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" alt="Jagadeesh Babu's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshbabu-ai&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
 </div>
 
 ## 🤝 Let’s Connect
