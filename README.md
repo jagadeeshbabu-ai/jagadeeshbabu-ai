@@ -126,15 +126,15 @@ Worked on React.js interfaces, REST APIs with Node.js and Express.js, MongoDB in
 - 🏆 **Deloitte Data Analytics Job Simulation** — Forage, 2025
 - 🏆 **Agentic AI, MCP & LangChain** — Oracle University, 2026
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeeshbabu-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution statistics showing total contributions, current streak, and longest streak" />
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeeshbabu-ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Jagadeesh Babu's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshbabu-ai&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jagadeeshbabu-ai&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ## 🤝 Let’s Connect
