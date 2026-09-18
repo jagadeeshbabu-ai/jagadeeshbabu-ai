@@ -28,6 +28,18 @@
 
 ---
 
+## 🟢 GitHub Status
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20AI%20Projects-brightgreen?style=for-the-badge" alt="GitHub status" />
+<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20MERN%20%7C%20Analytics-blue?style=for-the-badge" alt="Current focus" />
+<img src="https://img.shields.io/badge/Mode-Building%20Real--World%20Solutions-orange?style=for-the-badge" alt="Mode" />
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I’m a **B.Tech Electronics & Communication Engineering graduate** passionate about building practical, scalable applications with **Generative AI, Python, full-stack development, and data analytics**.
