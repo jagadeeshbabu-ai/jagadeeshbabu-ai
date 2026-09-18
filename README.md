@@ -77,6 +77,23 @@ I’m a **B.Tech Electronics & Communication Engineering graduate** passionate a
 
 ---
 
+## 🧠 AI Tools & Coding Assistants
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AntiGravity-6C63FF?style=for-the-badge" alt="AntiGravity" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/Monkey%20Code-FF6B6B?style=for-the-badge" alt="Monkey Code" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Gemini-8E5BEF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude%20Code-FF6F61?style=for-the-badge" alt="Claude Code" />
+<img src="https://img.shields.io/badge/CodeX-00C2A8?style=for-the-badge" alt="CodeX" />
+
+</div>
+
+---
+
 ## ⭐ Featured Projects
 
 | Project | Description | Stack |
